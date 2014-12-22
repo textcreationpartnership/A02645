@@ -35,7 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-An apologie 1. Or rather a retractation, 2. Or rather a recantation, 3. Or rather a recapitulation, 
+
+1. AN APOLOGIE.
+
 **Types of content**
 
   * There are 50 **verse** lines!
